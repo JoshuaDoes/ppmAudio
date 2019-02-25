@@ -6,7 +6,7 @@
 
 ## Getting and using ppmAudio
 
-At this moment in time, releases will not be uploaded. You may either build it yourself or ask me directly for a build (only if on Windows).
+At this moment in time, releases will not be uploaded. You must build it yourself for now.
 
 ## What does it do?
 
