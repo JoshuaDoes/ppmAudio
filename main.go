@@ -12,7 +12,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/bovarysme/adpcm"
+	"github.com/JoshuaDoes/adpcm-go"
 	"github.com/go-audio/audio"
 	"github.com/go-audio/wav"
 )
